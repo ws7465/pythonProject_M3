@@ -27,3 +27,40 @@
 #  6.  Вывести значение переменной calls на экран(в консоль).
 #
 #
+#
+calls = 0 # глобальная переменная счётчика вызовов
+def count_calls() : # ф-ция - счётчик вызовов
+    global calls # определение глобальной переменной
+    calls += 1 # наращивание счётчика
+#
+def string_info(string) : # ф-ция вывода кортежа полученного из строки
+    tuple_ = len(string), string.upper(), string.lower() # кортеж
+    count_calls() # вызов счётчика вызовов
+    return tuple_ # возврат значения кортежа
+#
+def is_contains(str_, list_) : # ф-ция анализа содержимости строки в списке
+    listu = [s.upper() for s in list_] # перевод списка в верхний регистр
+    stru = str_.upper() # перевод строки в верхний регистр
+    count_calls()  # вызов счётчика вызовов
+    return stru in listu # возврат результата анализа
+#
+# печать в консоли тестовых примеров
+print(string_info('Capybara'))
+print(string_info('Armageddon'))
+print(is_contains('Urban', ['ban', 'BaNaN', 'urBAN'])) # Urban ~ urBAN
+print(is_contains('cycle', ['recycling', 'cyclic'])) # No matches
+print(calls)
+#
+# Вывод на консоль: - ДОЛЖНО БЫТЬ
+# (8, 'CAPYBARA', 'capybara')
+# (10, 'ARMAGEDDON', 'armageddon')
+# True
+# False
+# 4
+#
+# конец задачи
+#
+
+
+
+
