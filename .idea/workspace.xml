@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4dd55d1-e16c-478f-bc78-a5629386cc1a" name="Changes" comment="модуль 3-2 20240921 18:58">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_3_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3_2.py" afterDir="false" />
-    </list>
+    <list default="true" id="a4dd55d1-e16c-478f-bc78-a5629386cc1a" name="Changes" comment="модуль 3-2 20240921 18:58" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +45,7 @@
   "keyToString": {
     "Python.main.executor": "Run",
     "Python.module_3_1.executor": "Run",
+    "Python.module_3_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "E:/@tmp/urban-university/для отправки/Modul_3"
@@ -122,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726934315973</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="модуль 3-2 20240921 18:58">
+      <option name="closed" value="true" />
+      <created>1726942317157</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726942317157</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
