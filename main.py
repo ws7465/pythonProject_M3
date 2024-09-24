@@ -61,3 +61,8 @@ func_with_params(6)
 #    list_my = []
 #   list_my.append(item)
 # print(list_my)
+#
+# def args_to_list(*args):
+#     args_list = list(args)
+#     return args_list
+
