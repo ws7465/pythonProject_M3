@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4dd55d1-e16c-478f-bc78-a5629386cc1a" name="Changes" comment="модуль 3-2 20240921 21:21">
-      <change afterPath="$PROJECT_DIR$/module_3_3.py" afterDir="false" />
+    <list default="true" id="a4dd55d1-e16c-478f-bc78-a5629386cc1a" name="Changes" comment="модуль 3-3 20240924 20:59">
+      <change afterPath="$PROJECT_DIR$/module_3_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,16 +44,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_3_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_3_2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/@tmp/urban-university/для отправки/Modul_3&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "Python.module_3_1.executor": "Run",
+    "Python.module_3_2.executor": "Run",
+    "Python.module_3_3.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/@tmp/urban-university/для отправки/Modul_3"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\@tmp\urban-university\для отправки\Modul_3" />
@@ -147,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727161515979</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="модуль 3-3 20240924 20:59">
+      <option name="closed" value="true" />
+      <created>1727200754140</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727200754140</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -155,17 +164,7 @@
     <MESSAGE value="модуль 3-1 20240921 00:41" />
     <MESSAGE value="модуль 3-2 20240921 18:58" />
     <MESSAGE value="модуль 3-2 20240921 21:21" />
-    <option name="LAST_COMMIT_MESSAGE" value="модуль 3-2 20240921 21:21" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="модуль 3-3 20240924 20:59" />
+    <option name="LAST_COMMIT_MESSAGE" value="модуль 3-3 20240924 20:59" />
   </component>
 </project>
