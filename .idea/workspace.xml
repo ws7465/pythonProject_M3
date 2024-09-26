@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4dd55d1-e16c-478f-bc78-a5629386cc1a" name="Changes" comment="модуль 3-4 20240924 21:13">
+    <list default="true" id="a4dd55d1-e16c-478f-bc78-a5629386cc1a" name="Changes" comment="модуль 3-4 20250924 00:17">
+      <change afterPath="$PROJECT_DIR$/module_3_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_3_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,8 @@
     "Python.module_3_1.executor": "Run",
     "Python.module_3_2.executor": "Run",
     "Python.module_3_3.executor": "Run",
+    "Python.module_3_4.executor": "Run",
+    "Python.module_3_5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "E:/@tmp/urban-university/для отправки/Modul_3"
@@ -164,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727201638288</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="модуль 3-4 20250924 00:17">
+      <option name="closed" value="true" />
+      <created>1727212665680</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727212665680</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -174,6 +184,7 @@
     <MESSAGE value="модуль 3-2 20240921 21:21" />
     <MESSAGE value="модуль 3-3 20240924 20:59" />
     <MESSAGE value="модуль 3-4 20240924 21:13" />
-    <option name="LAST_COMMIT_MESSAGE" value="модуль 3-4 20240924 21:13" />
+    <MESSAGE value="модуль 3-4 20250924 00:17" />
+    <option name="LAST_COMMIT_MESSAGE" value="модуль 3-4 20250924 00:17" />
   </component>
 </project>
