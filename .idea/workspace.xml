@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4dd55d1-e16c-478f-bc78-a5629386cc1a" name="Changes" comment="модуль ДОП 20240929 11:09 (калькулятор)">
+    <list default="true" id="a4dd55d1-e16c-478f-bc78-a5629386cc1a" name="Changes" comment="модуль ДОП 20240929 11:27 (калькулятор)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DOP.py" beforeDir="false" afterPath="$PROJECT_DIR$/DOP.py" afterDir="false" />
     </list>
@@ -191,7 +191,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727597372625</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="модуль ДОП 20240929 11:21 (калькулятор)">
+      <option name="closed" value="true" />
+      <created>1727598098609</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1727598098609</updated>
+    </task>
+    <task id="LOCAL-00013" summary="модуль ДОП 20240929 11:27 (калькулятор)">
+      <option name="closed" value="true" />
+      <created>1727598468627</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1727598468627</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -204,6 +220,8 @@
     <MESSAGE value="модуль 3-4 20250924 00:17" />
     <MESSAGE value="модуль 3-5 20240926 16:55" />
     <MESSAGE value="модуль ДОП 20240929 11:09 (калькулятор)" />
-    <option name="LAST_COMMIT_MESSAGE" value="модуль ДОП 20240929 11:09 (калькулятор)" />
+    <MESSAGE value="модуль ДОП 20240929 11:21 (калькулятор)" />
+    <MESSAGE value="модуль ДОП 20240929 11:27 (калькулятор)" />
+    <option name="LAST_COMMIT_MESSAGE" value="модуль ДОП 20240929 11:27 (калькулятор)" />
   </component>
 </project>

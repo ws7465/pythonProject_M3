@@ -20,18 +20,18 @@ button_mul.place(x=200, y=200)
 # button_div = tk.Button(window, text="/", width=2, height=2, command=div)
 button_div = tk.Button(window, text="/", width=2, height=2)
 button_div.place(x=250, y=200)
-# number1_entry = tk.Entry(window, width=28)
-# number1_entry.place(x=100, y=75)
-# number2_entry = tk.Entry(window, width=28)
-# number2_entry.place(x=100, y=150)
-# answer_entry = tk.Entry(window, width=28)
-# answer_entry.place(x=100, y=300)
-# number1 = tk.Label(window, text="Введите первое число:")
-# number1.place(x=100, y=50)
-# number2 = tk.Label(window, text="Введите второе число:")
-# number2.place(x=100, y=125)
-# answer = tk.Label(window, text="Ответ:")
-# answer.place(x=100, y=275)
+number1_entry = tk.Entry(window, width=28)
+number1_entry.place(x=100, y=75)
+number2_entry = tk.Entry(window, width=28)
+number2_entry.place(x=100, y=150)
+answer_entry = tk.Entry(window, width=28)
+answer_entry.place(x=100, y=300)
+number1 = tk.Label(window, text="Введите первое число:")
+number1.place(x=100, y=50)
+number2 = tk.Label(window, text="Введите второе число:")
+number2.place(x=100, y=125)
+answer = tk.Label(window, text="Ответ:")
+answer.place(x=100, y=275)
 window.mainloop()
 
 
@@ -72,17 +72,23 @@ window.mainloop()
 # button_div = tk.Button(window, text="/", width=2, height=2, command=div) # виджет -
 #                                                                   кнопка "разделить"
 # button_div.place(x=250, y=200)  #
-# number1_entry = tk.Entry(window, width=28)  #
-# number1_entry.place(x=100, y=75)  #
-# number2_entry = tk.Entry(window, width=28)  #
-# number2_entry.place(x=100, y=150)  #
-# answer_entry = tk.Entry(window, width=28) #
-# answer_entry.place(x=100, y=300)  #
-# number1 = tk.Label(window, text="Введите первое число:")  #
-# number1.place(x=100, y=50)  #
-# number2 = tk.Label(window, text="Введите второе число:")  #
-# number2.place(x=100, y=125)  #
-# answer = tk.Label(window, text="Ответ:")  #
-# answer.place(x=100, y=275)  #
-# window.mainloop()  #
+# number1_entry = tk.Entry(window, width=28)  # виджет - текстовое поле
+#                                             (для ввода информации), в данном случае
+#                                             для ввода первого числа.
+#                                             Используем метод Entry библиотеки tk .
+# number1_entry.place(x=100, y=75)  # размещаем первое текстовое поле
+# number2_entry = tk.Entry(window, width=28)  # текстовое поле для второго числа
+# number2_entry.place(x=100, y=150)  # размещаем
+# answer_entry = tk.Entry(window, width=28) # текстовое поле для вывода результата
+# answer_entry.place(x=100, y=300)  # размещаем
+# number1 = tk.Label(window, text="Введите первое число:")  # Метка
+#                                               первого текстового поля.
+#                                               Используем метод Entry библиотеки tk .
+# number1.place(x=100, y=50)  # размещаем метку
+# number2 = tk.Label(window, text="Введите второе число:")  # Метка
+#                                                        второго текстового поля.
+# number2.place(x=100, y=125)  # размещаем метку
+# answer = tk.Label(window, text="Ответ:")  # Метка текстового поля результата
+# answer.place(x=100, y=275)  # размещаем метку
+# window.mainloop()  # конец главного цикла обновления событий в окне
 ##
