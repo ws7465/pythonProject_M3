@@ -37,18 +37,18 @@
 
 
 
-def func_with_params(a, b=2, c=None):
-    if c is None:
-        c = []
-        c.append(a)
-    print(c)
-
-
-
-func_with_params(3)
-func_with_params(4)
-func_with_params(5)
-func_with_params(6)
+# def func_with_params(a, b=2, c=None):
+#     if c is None:
+#         c = []
+#         c.append(a)
+#     print(c)
+#
+#
+#
+# func_with_params(3)
+# func_with_params(4)
+# func_with_params(5)
+# func_with_params(6)
 
 # Важно!
 # Не передавайте списки задавая по умолчанию пустой список или другой изменяемый тип данных!
@@ -65,4 +65,41 @@ func_with_params(6)
 # def args_to_list(*args):
 #     args_list = list(args)
 #     return args_list
-
+#
+#
+# my_dict = {'a': 1, 'b': 2, 'c': 3}
+# flat_list = [element for pair in my_dict.items() for element in pair]
+# print(flat_list)
+#
+#
+# # Define a set
+# my_set = {1, 2, 3, 4, 5}
+# # Convert set to list
+# my_list = list(my_set)
+# # Print the list
+# print(my_list) # Output: [1, 2, 3, 4, 5]
+#
+#
+# a={1,3,'ty'}
+# print(isinstance(a, set))
+# b=[1,3,'ty']
+# print(isinstance(b, list))
+# c={1:'as',3:'df','ty':123}
+# print(isinstance(c, dict))
+# d=(1,3,'ty')
+# print(isinstance(d, tuple))
+#
+#
+# my_dict = {'a': 1, 'b': 2}
+# values = list(my_dict.values())  # [1, 2]
+# keys = list(my_dict.keys())      # ['a', 'b']
+# pairs = list(my_dict.items())    # [('a', 1), ('b', 2)]
+#
+#
+# # Кортежи с парами ключ-значение
+# k_v_pairs = [(k, v) for k, v in my_dict.items()]
+#
+# # Плоский список с ключами и значениями
+# flat_list = [element for pair in my_dict.items() for element in pair]
+#
+#
