@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4dd55d1-e16c-478f-bc78-a5629386cc1a" name="Changes" comment="модуль ДОП 20240929 11:42 (калькулятор)">
-      <change afterPath="$PROJECT_DIR$/DOP(calc).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOP.py" beforeDir="false" afterPath="$PROJECT_DIR$/DOP.py" afterDir="false" />
+    <list default="true" id="a4dd55d1-e16c-478f-bc78-a5629386cc1a" name="Changes" comment="модуль ДОП 20240929 12:02 (калькулятор)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727599336644</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="модуль ДОП 20240929 12:02 (калькулятор)">
+      <option name="closed" value="true" />
+      <created>1727600581841</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1727600581841</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -231,6 +238,7 @@
     <MESSAGE value="модуль ДОП 20240929 11:21 (калькулятор)" />
     <MESSAGE value="модуль ДОП 20240929 11:27 (калькулятор)" />
     <MESSAGE value="модуль ДОП 20240929 11:42 (калькулятор)" />
-    <option name="LAST_COMMIT_MESSAGE" value="модуль ДОП 20240929 11:42 (калькулятор)" />
+    <MESSAGE value="модуль ДОП 20240929 12:02 (калькулятор)" />
+    <option name="LAST_COMMIT_MESSAGE" value="модуль ДОП 20240929 12:02 (калькулятор)" />
   </component>
 </project>
