@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4dd55d1-e16c-478f-bc78-a5629386cc1a" name="Changes" comment="модуль 3-4 20250924 00:17">
-      <change afterPath="$PROJECT_DIR$/module_3_5.py" afterDir="false" />
+    <list default="true" id="a4dd55d1-e16c-478f-bc78-a5629386cc1a" name="Changes" comment="модуль 3-5 20240926 16:55">
+      <change afterPath="$PROJECT_DIR$/DOP.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.DOP.executor": "Run",
     "Python.main.executor": "Run",
     "Python.module_3_1.executor": "Run",
     "Python.module_3_2.executor": "Run",
@@ -174,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727212665680</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="модуль 3-5 20240926 16:55">
+      <option name="closed" value="true" />
+      <created>1727358943221</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727358943221</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -185,6 +194,7 @@
     <MESSAGE value="модуль 3-3 20240924 20:59" />
     <MESSAGE value="модуль 3-4 20240924 21:13" />
     <MESSAGE value="модуль 3-4 20250924 00:17" />
-    <option name="LAST_COMMIT_MESSAGE" value="модуль 3-4 20250924 00:17" />
+    <MESSAGE value="модуль 3-5 20240926 16:55" />
+    <option name="LAST_COMMIT_MESSAGE" value="модуль 3-5 20240926 16:55" />
   </component>
 </project>
